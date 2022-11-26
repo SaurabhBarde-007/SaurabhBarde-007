@@ -93,7 +93,7 @@ I didn't have any such motivation to par... </p> <br/> <br/>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SaurabhBarde-007&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="Spyware007" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SaurabhBarde-007&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="SaurabhBarde-007" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhBarde-007&theme=dark" alt="SaurabhBarde-007" /></td>
   </tr>
 </table>
@@ -106,9 +106,9 @@ I didn't have any such motivation to par... </p> <br/> <br/>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
+![Snake Graph](https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/github-user-contribution.svg)
 
-<img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
+<img src="https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
 
 ---
 
