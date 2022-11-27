@@ -79,6 +79,11 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#87](https://github.com/Spyware007/Animating-Buttons/pull/87) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+2. 💪 Opened PR [#41](https://github.com/Spyware007/Animating-Buttons/pull/41) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+3. 💪 Opened PR [#39](https://github.com/Spyware007/Animating-Buttons/pull/39) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+4. 💪 Opened PR [#17](https://github.com/Spyware007/Animating-Buttons/pull/17) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+5. 💪 Opened PR [#3](https://github.com/CPMC-DYPCOE/cpmc-website/pull/3) in [CPMC-DYPCOE/cpmc-website](https://github.com/CPMC-DYPCOE/cpmc-website)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
