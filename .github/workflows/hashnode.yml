@@ -19,6 +19,6 @@ jobs:
           USERNAME: "SaurabhBarde-007" # Hashnode Username
           BLOG_URL: "https://thunderbolt.hashnode.dev/" # Blog URL
           STYLE: "blog-alternate" # Alternate Style
-          COUNT: 5 # MAX Visisble
+          COUNT: 1 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
