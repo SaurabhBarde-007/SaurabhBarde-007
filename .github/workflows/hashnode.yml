@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: "SaurabhBarde-007" # Hashnode Username
+          USERNAME: "ThunderBolt007" # Hashnode Username
           BLOG_URL: "https://thunderbolt.hashnode.dev/" # Blog URL
           STYLE: "blog-alternate" # Alternate Style
           COUNT: 1 # MAX Visisble
