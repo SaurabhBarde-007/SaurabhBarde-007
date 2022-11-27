@@ -76,6 +76,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### My recent GitHub activity ⚡️
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## My Latest Blog Posts 👇
 
@@ -125,4 +131,4 @@ Leave a ⭐ from [here](https://github.com/SaurabhBarde-007/SaurabhBarde-007) if
 
 I tweet sometimes
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/oom_gawande?style=social&logo=twitter)](https://twitter.com/ThunderBoltt_09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ThunderBoltt_09?style=social&logo=twitter)](https://twitter.com/ThunderBoltt_09)
