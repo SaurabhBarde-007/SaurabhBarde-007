@@ -91,13 +91,13 @@
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-
 <p align="left">
-<a href="https://thunderbolt.hashnode.dev/flip-verse-the-journey-of-flipkart-grid-challenge" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661639861531/CoCVe0Or7.png" alt="Flipverse - The Journey of Flipkart Grid Challenge  🚀" width="250px" align="right" /></a>
-<a href="https://thunderbolt.hashnode.dev/flip-verse-the-journey-of-flipkart-grid-challenge" title="Flipverse - The Journey of Flipkart Grid Challenge  🚀"><strong>Flipverse - The Journey of Flipkart Grid Challenge  🚀</strong></a>
-<div><strong>28 Aug 2022</strong></div>
-<br/> It was just a normal day when I got a message from Dhruv Kothari on Super 30 (our small community) of Web Dev saying "Guys team banao and aag lagao 🔥" with a registration link for Flipkart Grid 4.0 Hackathon.
-I didn't have any such motivation to par... </p> <br/> <br/>
+<a href="https://thunderbolt.hashnode.dev//flip-verse-the-journey-of-flipkart-grid-challenge" title="Flip-Verse - The Journey of Flipkart  Grid Challenge 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661927238172/MylKp_N1G.png" alt="Flip-Verse - The Journey of Flipkart  Grid Challenge 🚀" width="250px" align="left" /></a>
+<a href="https://thunderbolt.hashnode.dev//flip-verse-the-journey-of-flipkart-grid-challenge" title="Flip-Verse - The Journey of Flipkart  Grid Challenge 🚀"><strong>Flip-Verse - The Journey of Flipkart  Grid Challenge 🚀</strong></a>
+<div><strong>31 Aug 2022</strong></div>
+<br/> What is Flipkart Grid 4.0?
+Flipkart GRID is Flipkart’s Flagship Engineering Campus Challenge which gives you an opportunity to showcase your technical knowledge and skills,  to compete and complete key challenges.
+This time we participated in the fou... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
