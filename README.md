@@ -79,7 +79,7 @@
 ### My recent GitHub activity ⚡️
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/Spyware007/Animating-Buttons/pull/87) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
+1. ❗️ Opened issue [#1](https://github.com/Spyware007/Spyware007/issues/1) in [Spyware007/Spyware007](https://github.com/Spyware007/Spyware007)
 2. 💪 Opened PR [#41](https://github.com/Spyware007/Animating-Buttons/pull/41) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 3. 💪 Opened PR [#39](https://github.com/Spyware007/Animating-Buttons/pull/39) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
 4. 💪 Opened PR [#17](https://github.com/Spyware007/Animating-Buttons/pull/17) in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)
